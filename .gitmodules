@@ -1,0 +1,3 @@
+[submodule "piper_sdk"]
+	path = piper_sdk
+	url = https://github.com/agilexrobotics/piper_sdk.git
